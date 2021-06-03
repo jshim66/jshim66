@@ -7,4 +7,6 @@ I have experience with the following languages:
 - Python
 - C++
 - R
+- HTML/CSS
+- Javascript
 - Logisim - circuit programming
