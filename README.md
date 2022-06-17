@@ -1,4 +1,4 @@
-Hello, I am Justin Shim and a fourth year at UC Davis, majoring in Computer Science.
+Hello, I am Justin Shim and a recent graduate from UC Davis where I majored in Computer Science.
 
 I am currently looking for a computer programming opportunity.
 
