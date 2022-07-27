@@ -4,8 +4,9 @@ I am currently looking for a computer programming opportunity.
 
 I have experience with the following languages:
 - Python
+- Java
 - C++
-- R
 - HTML/CSS
 - Javascript
+- R
 - Logisim - circuit programming
