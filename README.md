@@ -34,9 +34,9 @@ Worked on **ARTAS** — a robotic hair restoration system — where I:
 
 ## 🚀 Projects
 
-### Plantify
+### [Plantify](https://github.com/jshim66/plantify)
 
-A full stack plant identification app I am currently building to strengthen my skills in React, TypeScript, Express, API integration, and modern web development. Users can upload plant images, identify species through the Plant.id API, and view results in a clean, interactive interface. I am also expanding it with features like saved entries, favorites, and a plant journal experience.
+A full stack plant identification app I am currently building to deepen my experience with React, TypeScript, Express, and external API integration. Plantify allows users to upload plant images, identify species through the Plant.id API, and review results through a clean, interactive interface. I am continuing to expand it with features like saved entries, favorites, and a journal-style user experience.
 
 `React` `TypeScript` `Express` `Node.js` `API Integration`
 
