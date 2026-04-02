@@ -20,15 +20,17 @@ Software Quality Engineer with 3+ years of professional experience building test
 
 ---
 
-## 💼 Experience Highlight
+## Work Experience
 
-**SQA Engineer @ Venus AI** *(Feb 2023 – Mar 2026)*
+### Software Quality Engineer  
+**Venus AI**  
 
-Worked on **ARTAS** — a robotic hair restoration system — where I:
-- Built C# test automation frameworks for mission-critical algorithms
-- Led SQA efforts across 5+ clinical and software releases
-- Developed SQL-driven validation pipelines targeting enterprise system integrations
-- Operated the ARTAS robot directly during 5+ clinical procedure sessions, delivering structured feedback to R&D and clinical teams
+- Designed and built C# automation frameworks for ARTAS, a robotic hair restoration system, supporting complex multi-hour test scenarios and reducing overall test cycle time across monthly releases.
+- Developed SQL-based validation workflows to verify data transfer between local and server environments, cross-referencing treatment report outputs against source records to ensure data accuracy and integrity.
+- Integrated automated test suites into Azure DevOps CI/CD pipelines, improving regression coverage and enabling faster feedback during a high-cadence release cycle.
+- Partnered with cross-functional R&D teams across hardware, enterprise, and software engineering to validate cloud-based system registration and device connectivity through end-to-end workflows.
+- Owned release validation across 5+ software releases in a regulated medical device environment, helping align engineering and clinical stakeholders on quality standards and release readiness.
+- Participated in live clinical procedure sessions as the on-site technical operator, observing real-world system behavior and translating findings into actionable bugs and product improvements.
 
 ---
 
