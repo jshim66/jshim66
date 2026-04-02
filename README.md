@@ -1,6 +1,6 @@
 # Hi, I'm Justin Shim 👋
 
-Software Quality Engineer with 3+ years of professional experience building test automation frameworks, leading clinical releases, and validating enterprise systems in a regulated medical robotics environment. Currently seeking **SQA, SDET, and Software Engineering** roles.
+Software Quality Engineer with 3+ years of professional experience building test automation frameworks, leading clinical releases, and validating enterprise systems in a regulated medical robotics environment. Currently seeking SQA, SDET, and Software Engineering roles, while actively building Plantify, a full stack plant identification app using React, TypeScript, Express, and the Plant.id API.
 
 ---
 
@@ -33,6 +33,12 @@ Worked on **ARTAS** — a robotic hair restoration system — where I:
 ---
 
 ## 🚀 Projects
+
+### Plantify
+
+A full stack plant identification app I am currently building to strengthen my skills in React, TypeScript, Express, API integration, and modern web development. Users can upload plant images, identify species through the Plant.id API, and view results in a clean, interactive interface. I am also expanding it with features like saved entries, favorites, and a plant journal experience.
+
+`React` `TypeScript` `Express` `Node.js` `API Integration`
 
 ### 🏋️ [Fitness Tracker](https://github.com/jshim66)
 A web application with core fitness tracking capabilities — log workouts, track progress, and monitor activity over time.
